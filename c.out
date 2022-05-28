@@ -1,0 +1,11 @@
+mode: set
+gotest/batchmark.go:3.44,5.28 2 0
+gotest/batchmark.go:8.2,8.17 1 0
+gotest/batchmark.go:5.28,7.3 1 0
+gotest/batchmark.go:11.44,13.28 2 0
+gotest/batchmark.go:16.2,16.17 1 0
+gotest/batchmark.go:13.28,15.3 1 0
+gotest/example.go:5.17,7.2 1 1
+gotest/example.go:9.19,12.2 2 1
+gotest/example.go:14.16,22.32 2 1
+gotest/example.go:22.32,24.3 1 1
